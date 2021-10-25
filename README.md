@@ -1,5 +1,5 @@
 <h1 align="center">
-Simples CRUD
+Simple CRUD
 </h1>
 
 <p align="center">CRUD based on TS and Next: for study purposes.</p>
